@@ -1,0 +1,23 @@
+{
+  "name": "constructor_word_guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp-knoll-86/Constructor_Word_Guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sp-knoll-86/Constructor_Word_Guess/issues"
+  },
+  "homepage": "https://github.com/sp-knoll-86/Constructor_Word_Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "prompt": "^1.0.0"
+  }
+}
