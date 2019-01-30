@@ -25,7 +25,7 @@ function beginGame() {
 
                 var getLetter = function () {
                     if (guesses > 0) {
-                        inquirere.prompt([{
+                        inquirer.prompt([{
                             type: "input",
                             message: "Guess a letter",
                             name: "letter"
